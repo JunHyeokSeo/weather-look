@@ -1,6 +1,5 @@
 # WEATHER LOOK
 > 기온별 OOTD(Outfit Of The Day)를 한눈에 파악할 수 있다!
-### [WEATHER LOOK 방문하기](http://13.125.36.254/)
 
 <br/>
 
@@ -41,3 +40,4 @@
 [OpenWeather]:https://openweathermap.org/
 [EXIF]:https://github.com/exif-js/exif-js
 [기상청]:https://apihub.kma.go.kr/
+
