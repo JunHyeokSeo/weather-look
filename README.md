@@ -1,10 +1,10 @@
 # WEATHER LOOK
-> 기온별 OOTD(Outfit Of The Day)를 한눈에 파악할 수 있다!
+> 기온별 옷차림을 한눈에 파악할 수 있다!
 
 <br/>
 
 ## 소개
-기온별 OOTD(Outfit Of The Day)를 파악할 수 있는 웹사이트입니다.<br/>
+기온별 옷차림을 파악할 수 있는 웹사이트입니다.<br/>
 업로드 된 사진의 메타데이터를 통해 촬영 시점의 기온을 저장합니다.<br/>
 사용자는 특정 기온의 OOTD를 모아볼 수 있으며,<br/>
 우리가 제공하는 실시간 기상정보를 통해 날씨에 맞는 옷차림을 쉽게 결정할 수 있습니다.<br/>
@@ -40,4 +40,5 @@
 [OpenWeather]:https://openweathermap.org/
 [EXIF]:https://github.com/exif-js/exif-js
 [기상청]:https://apihub.kma.go.kr/
+
 
